@@ -1,7 +1,2 @@
-times
-=====
-
-just test ,my first git hub , wasting my times.
-
-
-test core
+Time is Resource.
+What we need is more time.
